@@ -1,0 +1,12 @@
+yfinance
+pandas
+numpy
+matplotlib
+stockstats
+gym
+stable-baselines3[extra]
+tensorflow
+ta
+PyPortfolioOpt
+# git+https://github.com/AI4Finance-LLC/FinRL-Library.git
+# git+https://github.com/quantopian/pyfolio
